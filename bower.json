@@ -1,0 +1,20 @@
+{
+  "name": "akelei-org-2015",
+  "version": "0.0.1",
+  "homepage": "http://www.akelei.org",
+  "authors": [
+    "pascalvervest <pascalvervest@gmail.com>"
+  ],
+  "description": "Band website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}
